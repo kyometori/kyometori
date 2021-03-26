@@ -1,4 +1,4 @@
-Ｈi there, I'm kyometori, or AC0xRPFS001.
+Ｈi there, I'm kyometori, or AC0xRPFS001 as well.
 
 # Projects
 
