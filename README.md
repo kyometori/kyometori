@@ -7,8 +7,9 @@
 It's a private repo since there are some secrets inside the code.  
 It's a Discord bot for fun, moderation, music etc.  
 You can preview it by using following links:
+- [Official Site](https://kyometori.github.io/hzindex)
 - [Top.gg Page](https://top.gg/bot/584677291318312963)
-- [Official Site](https://hizollo.fandom.com/zh/Project:Discord)
+- [Official Wiki](https://hizollo.fandom.com/zh/Project:Discord)
 
 ## Sparebeat
 
@@ -18,6 +19,15 @@ It also has an sub-site mrsr, where for my friends share their maps.
 
 FYI: 
 - [The Site](https://kyometori.github.io/sparebeat)
+- [Source](https://github.com/kyometori/sparebeat)
+
+## HiZollo Index Page
+
+The official site of the discord bot Junior HiZollo which was memtioned above.
+
+FYI: 
+- [The Site](https://kyometori.github.io/hzindex)
+- [Repo](https://github.com/kyometori/hzindex)
 
 # Languages
 
