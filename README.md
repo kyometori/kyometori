@@ -7,9 +7,9 @@
 It's a private repo since there are some secrets inside the code.  
 It's a Discord bot for fun, moderation, music etc.  
 You can preview it by using following links:
-- [Official Site](https://kyometori.github.io/hzindex)
+- [Official Site](https://hizollo.ddns.net)
 - [Top.gg Page](https://top.gg/bot/584677291318312963)
-- [Official Wiki](https://hizollo.fandom.com/zh/Project:Discord)
+- [DST Page](https://discordservers.tw/bots/584677291318312963)
 
 ## Sparebeat
 
@@ -26,7 +26,7 @@ FYI:
 The official site of the discord bot Junior HiZollo which was memtioned above.
 
 FYI: 
-- [The Site](https://kyometori.github.io/hzindex)
+- [The Site](https://hizollo.ddns.net)
 - [Repo](https://github.com/kyometori/hzindex)
 
 # Languages
@@ -42,3 +42,4 @@ FYI:
 
 If you want to contact me, you can use following method: 
 - Discord: AC0xRPFS001#5007
+- Email: ac0xrpfs001@vivaldi.net
