@@ -9,8 +9,8 @@ Hi there, I'm AC0xRPFS001.
 - https://kyometori.github.io/#/portfolio
 
 # Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyometori&theme=discord_old_blurple&layout=compact)  
-![](https://github-readme-stats.vercel.app/api/?username=kyometori&theme=discord_old_blurple&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyometori&theme=discord_old_blurple&layout=compact)](https://github.com/kyometori)   
+[![](https://github-readme-stats.vercel.app/api/?username=kyometori&theme=discord_old_blurple&show_icons=true)](https://github.com/kyometori)
 
 # Contact
 - https://kyometori.github.io/#/contact
