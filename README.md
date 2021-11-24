@@ -1,4 +1,5 @@
 Hi there, I'm AC0xRPFS001.
+[![](https://metrics.lecoq.io/kyometori)](https://github.com/kyometori)
 
 # Links about me
 - https://kyometori.github.io
